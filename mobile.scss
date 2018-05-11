@@ -1,0 +1,38 @@
+/* Starting point for a responsive style sheet
+Breakpoints are based off Chrome Dev Tools
+*/
+
+// desktop breakpoint
+@media only screen and (max-width : 1200px) {
+
+}
+
+// tablet landscape
+@media only screen and (max-width: 1024px) {
+
+}
+
+// iphonex landscape
+@media only screen and (max-width : 812px) {
+    
+}
+
+// iphone 6/7/8 Plus landscape
+@media only screen and (max-width : 736px) {
+
+}
+
+// iphone 6/7/8 landscape
+@media only screen and (max-width : 667px) {
+  
+}
+
+// iphone 6/7/8 Plus portrait
+@media only screen and (max-width : 414px) {
+    
+}
+
+// iphoneX portrait & iphone 6/7/8  portrait
+@media only screen and (max-width : 375px) {
+
+}
